@@ -13,3 +13,6 @@ Place: Pune, India
 
 Name: [Nitika Gupta](https://github.com/NitikaGupta16)
 Place: Delhi, India 
+
+Name: [Nitin Kumar](https://github.com/nitinkumar30)
+Place: Jamshedpur, India
